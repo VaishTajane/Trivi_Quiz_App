@@ -46,13 +46,9 @@ Kui Quiz is an interactive quiz application designed to make learning fun and en
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code follows the project's coding standards and passes all tests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any inquiries or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or support, please contact vaishnavit.cse21@sbjit.edu.in .
 ```
 
-Replace `https://github.com/your-username/Kui-Quiz.git` with the actual URL of your GitHub repository, and update the contact email with your actual email address. This README provides a comprehensive overview of your project and will be helpful for users and contributors.
+
