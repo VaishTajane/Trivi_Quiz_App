@@ -19,7 +19,7 @@ Kui Quiz is an interactive quiz application designed to make learning fun and en
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Kui-Quiz.git
+   git clone https://github.com/vaishanvitajane/Trivi_Quiz_App.git .
    cd Kui-Quiz
    ```
 
