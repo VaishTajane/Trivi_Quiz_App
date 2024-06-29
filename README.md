@@ -48,8 +48,8 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Contact
 
-For any inquiries or support, please contact vaishnavit.cse21@sbjit.edu.in .
+For any inquiries or support, please contact vaishnavitajne10@gmail.com .
 ```
- vaishnavit.cse21@sbjit.edu.in
+ vaishnavitajne10@gmail.com
 
 
