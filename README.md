@@ -50,5 +50,6 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 For any inquiries or support, please contact vaishnavit.cse21@sbjit.edu.in .
 ```
+ vaishnavit.cse21@sbjit.edu.in
 
 
